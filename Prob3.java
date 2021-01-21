@@ -6,6 +6,6 @@ class Prob3 {
    System.out.print("Enter a word: ");
    String word =  scan.nextLine();
    word = word.toLowerCase();
-   Strung word2
+   String word
   }
 }
